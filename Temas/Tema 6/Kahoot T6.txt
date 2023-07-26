@@ -1,0 +1,91 @@
+1.
+
+Indica cual no es un objeto:
+
+
+res.empresa(buena)--------------
+res.partner.address
+res.partner
+account.invoice
+
+
+2.
+
+En el MVC de Odoo las vistas se implementan con:
+
+XML(buena)------------
+Qweb
+Python
+Html
+
+
+3.
+
+Una secuencia en Odoo es:
+
+Una succesión de secuencias Qweb
+Un codigo de identificacion de vistas
+Un sistema de prioridades de vistas(buena)------------
+la estructura de herencias que tiene una vista
+
+4. 
+
+Son tipos de campos de un modelo de Odoo:
+
+Relacionales(buena)-------------
+Compute
+String 
+Integer
+
+5.
+
+Los objetos sobre los que articula Odoo son:
+
+Modelos, vistas, menus y elementos de menu
+Modelos, vistas, herencias, qweb
+Vista, arbol, vista formulario y vistas Kanban
+Modelo, vistas, menu y acciones(buena)---------------
+
+6.
+Todos los modelos de Odoo:
+
+Sus campos basicos no admiten atributos 
+Son transitorios
+Se escriben en xpath
+Extienden de la clase models.Model(buena)----------------
+
+7.
+
+La tabla postgres de usuarios, contactos, clientes y proveedores es:
+
+res.partner
+res_partner(buena)-----------------
+res.users
+res_users
+
+8.
+
+Para crear vistas heredadas, Odoo se utiliza:
+
+HTML
+Python
+Javascript
+XPath(Buena)--------------------
+
+9.
+
+Para describir las vistas en Odoo se utiliza:
+
+Un lenguaje de descripcion de datos XML(Buena)----------------------
+Un lenguada de consulta de datos XML
+Un lenguaje de consulta de datos como SQL
+Ninguna es cierta
+
+10.
+
+Los mecanismos de herencia en Odoo son aplicables a:
+
+Modelo y vistas
+Modelos
+Modelos, vistas y, en general, a la lógica de negocio(buena)---------------------
+Vistas

@@ -1,0 +1,115 @@
+Pregunta 1:
+
+1. Cuál no es una tarea del proceso de instalación e implantación de un sistema ERP
+
+Respuesta 1:
+
+Corrección de software (Buena)
+Formación de usuarios
+Migración de datos
+Configuración del sistema
+
+Pregunta 2:
+
+2. En implantación de un ERP, el análisis previo incluye:
+
+Respuesta 2:
+
+Un informe de necesidades detectadas(Buena)
+La concreción del alcance
+Las instrucciones de instalación
+Una propuesta de la infraestructura
+
+
+Pregunta 3: 
+
+3. La usabilidad de un ERP mide
+
+Respuesta 3:
+
+La complejidad
+La facilidad(Buena)
+La multifuncionalidad
+La velocidad
+
+Pregunta 4:
+
+4. ¿Que expresion define mejor el concepto de performance dip?
+
+Respuesta 4:
+
+Caida de la eficacia feneral(Buena)
+Aumento de la productividad
+Caida de la satisfacción general
+Disminución inicial de clientes
+
+Pregunta 5:
+
+5. Señala cual de los siguientes es un requisito funcional
+
+Respuesta 5:
+
+Restricciones de acceso
+Reglas de dominio
+Disponibilidad(Buena)
+velocidad
+
+Pregunta 6:
+
+6. ¿Cuál de los siguientes nos es un factor de éxito o fracaso de un ERP?
+
+Respuesta 6:
+
+Implicación de la gerencia
+Presupuesto económico del proyecto(Buena)
+Resistencia al cambio de los empleados
+Falta de medios
+
+Pregunta 7:
+
+7. Los factores que se deben tener en cuenta a la hora de elegir un ERP
+
+Respuesta 7:
+
+Periodo de migración y adaptacion
+Se deben tener en cuenta todas las indicas(buena)
+Informes y análisis proporcionados
+Caracteristicas de uso
+
+
+Pregunta 8:
+
+8. En la fase de diseño se define
+
+Respuesta 8:
+
+La operacion de mantenimiento
+La migracion de datos
+El proceso de instalación y parametrización
+El alcance funcional(Buena)
+
+
+Pregunta 9:
+
+9. Los enfoques para la definició de requisitos son
+
+Respuesta 9:
+
+Dirigido a producto y dirigido a usuario(Buena)
+Dirigido a desarrollo y dirigido a una solucion existente
+Funcionales y no funcionales
+Dirigidos a objetivos y dirigidos a desempeño
+
+Pregunta 10: 
+
+10. Durante los trabajos de adaptacion de un ERP a una empresa se aborda
+
+Respuesta 10:
+
+El estudio de viabilidad del sistema(Buena)
+La modificación y creación de informes
+La creación de modulos especificos
+La eliminación de la redundancia de datos
+
+
+

@@ -1,0 +1,9 @@
+Referencia Interna;Nombre;Descripción;Precio de Venta;Coste;Tipo de Producto;
+X-0001;Soporte Técnico 1 Hora (Incluye Desplazamiento);Soporte Técnico de 1 hora (incluye el desplazamiento). Las horas sucesivas se cobrarán sin incluir el desplazamiento.;45,00 €;13,00 €;Service;
+X-0002;Soporte Técnico Segunda Hora y Sucesivas;Soporte Técnico Segunda Hora y Sucesivas.;30,00 €;13,00 €;Service;
+X-0003;Soporte Técnico Anual;Suscripción a Soporte Técnico Anual. Cuota anual;3.024,00 €;0,00 €;Service;
+X-0004;Soporte Técnico Mensual;Suscripción a Soporte Técnico Anual. Cuota mensual;280,00 €;0,00 €;Service;
+X-0005;Soporte Técnico - Pack 10 Horas;Pack de 10 Horas de Soporte Técnico;290,00 €;130,00 €;Service;
+X-0006;Soporte Técnico - Pack 20 Horas;Pack de 20 Horas de Soporte Técnico;550,00 €;260,00 €;Service;
+X-0007;Soporte Técnico - Pack 30 Horas;Pack de 30 Horas de Soporte Técnico;850,00 €;390,00 €;Service;
+X-0008;Programador por Horas;Programador por Horas;50,00 €;20,00 €;Service;

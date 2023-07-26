@@ -1,0 +1,41 @@
+﻿Referencia Interna;Tipo de producto;Nombre;Descripción;Precio de venta;Coste;Categoria;Peso;Stock Central;Stock Tienda
+P-0001;Stockable Product;MSI GL62M 7RDX-2203XES ;"Intel Core i5-7300HQ/8GB/1TB/GTX 1050/15.6""";799,00 €;580,00 €;Hardware / Ordenadores Portatiles;2.2 ;2;1
+P-0002;Stockable Product;HP Pavilion Power 15-CB032NS ;"Intel Core i7-7700HQ/8GB/1TB/GTX 1050/15.6""";829,00 €;600,00 €;Hardware / Ordenadores Portatiles;2,1;5;2
+P-0003;Stockable Product;Lenovo Legion Y520-15IKBN;" Intel Core i7-7700HQ/8GB/1TB/GTX 1050/15.6""";899,00 €;680,00 €;Hardware / Ordenadores Portatiles;2.4 ;5;2
+P-0004;Stockable Product;Acer Spin 5 SP513-51 ;"Intel Core i7-7500U/8GB/256GB SSD/13.3"" Táctil";860,00 €;650,00 €;Hardware / Ordenadores Portatiles;1.6 ;3;0
+P-0005;Stockable Product;Asus UX490UA-BE029T ;"Intel Core i5-7200U/8GB/256GB SSD/14""";1.199,00 €;940,00 €;Hardware / Ordenadores Portatiles;1;2;2
+P-0006;Stockable Product;Apple MacBook Pro ;"Intel Core i5/8GB/256GB/13"" Plateado";1.555,00 €;1.200,00 €;Hardware / Ordenadores Portatiles;1,37;5;3
+P-0007;Stockable Product;Toshiba Satellite Pro A50-D-124 ;"Intel Core i5-7200U/8GB/256GB SSD/15.6""";720,00 €;550,00 €;Hardware / Ordenadores Portatiles;2.2 ;10;10
+P-0008;Stockable Product;Lenovo Legion Y720-15IKB Intel Core;" i7-7700HQ/16GB/1TB+128GB SSD/GTX1060/15.6""";1.499,00 €;1.180,00 €;Hardware / Ordenadores Portatiles;3.2 ;5;5
+P-0009;Stockable Product;MSI GS73VR 7RF-436XES Intel Core;" i7-7700HQ/16GB/1TB+256SSD/GTX1060/17.3""";1.599,00 €;1.270,00 €;Hardware / Ordenadores Portatiles;2.43 ;5;5
+P-0010;Stockable Product;Apple MacBook Pro Touch Bar ;"Intel Core i7/16GB/512GB/15"" Gris Espacial";2.930,00 €;2.200,00 €;Hardware / Ordenadores Portatiles;1,83 ;2;3
+P-0011;Stockable Product;LG GRAM Intel Core;" i7-7500U/8GB/256GB SSD/15.6""";1.400,00 €;1.100,00 €;Hardware / Ordenadores Portatiles;1.09 ;5;5
+P-0012;Stockable Product;Huawei MateBook D Intel Core;" i5-7200U/8GB/256GB SSD/15.6""";869,00 €;700,00 €;Hardware / Ordenadores Portatiles;1.9 ;5;2
+P-0013;Stockable Product;Acer Aspire GX-781 ;Intel Core i5-7400/8GB/1TB+128GB SSD/GTX 1050;855,00 €;645,00 €;Hardware / Ordenadores Sobremesa;8.8  ;3;2
+P-0014;Stockable Product;Asus ESC500 G4-M3M ;Intel Xeon E3-1245 V6/16GB/1TB+256SSD/GTX 1070;1.635,00 €;1.280,00 €;Hardware / Ordenadores Sobremesa;10.3 ;5;1
+P-0015;Stockable Product;HP OMEN 880-021NS; Intel Core i7-7700/16GB/1TB+256GB SSD/GTX 1080;2.000,00 €;1.550,00 €;Hardware / Ordenadores Sobremesa;17.6 ;2;2
+P-0016;Stockable Product;Lenovo IdeaCentre Y900-34ISZ ;Intel Core i7-6700K/32GB/2TB+256SSD/GTX980;1.500,00 €;1.170,00 €;Hardware / Ordenadores Sobremesa;10.5 ;2;3
+P-0017;Stockable Product;MSI VR One 7RE-074ES ;Intel Core i7-7820HK/16GB+512SSD/GTX1070 8GB;2.200,00 €;1.730,00 €;Hardware / Ordenadores Sobremesa;3.6 ;10;1
+P-0018;Stockable Product;Apple iMac ;"i5 3GHz/8GB/1TB/Radeon Pro 555 2GB/21.5"" 4K Retina";1.360,00 €;1.080,00 €;Hardware / Ordenadores Sobremesa;5,66;2;2
+P-0019;Stockable Product;PcCom Bronze MC 1050 ;Intel Core i5-7400/1TB/8GB/GTX1050Ti 4GB;680,00 €;500,00 €;Hardware / Ordenadores Sobremesa;7.5 ;10;3
+P-0020;Stockable Product;PcCom Custom Diamond; i7-7700K/32GB/ 1TB M.2/2TB SSD/2X GTX 1080Ti;6.999,00 €;5.150,00 €;Hardware / Ordenadores Sobremesa;10;2;2
+P-0021;Stockable Product;WD Black ;2TB SATA3 7200rpm;130,00 €;95,00 €;Hardware / Discos Duros;0.75 ;6;5
+P-0022;Stockable Product;Samsung 850 ;Evo SSD Series 1TB SATA3;311,00 €;220,00 €;Hardware / Discos Duros;0.66 ;8;5
+P-0023;Stockable Product;HP Enterprise ;"1TB 3.5"" SATA III";165,00 €;105,00 €;Hardware / Discos Duros; 1.36 ;8;5
+P-0024;Stockable Product;Sandisk Ultra 3D ;SSD 1TB SATA3;339,00 €;240,00 €;Hardware / Discos Duros;1,05;15;5
+P-0025;Stockable Product;Asus Rampage ;VI Extreme;620,00 €;490,00 €;Hardware / Placas Base;2;25;4
+P-0026;Stockable Product;MSI Z370 ;Godlike Gaming;500,00 €;410,00 €;Hardware / Placas Base;2.7 ;20;2
+P-0027;Stockable Product;Gigabyte X299 AORUS ;Ultra Gaming Pro;355,00 €;295,00 €;Hardware / Placas Base;1.8 ;30;1
+P-0028;Stockable Product;Intel Core I7-7700K ;4.2GHz BOX;290,00 €;220,00 €;Hardware / Procesadores;0.5 ;15;0
+P-0029;Stockable Product;Intel Core i5-7400; 3.0GHz BOX;155,00 €;105,00 €;Hardware / Procesadores;0.5 ;15;3
+P-0030;Stockable Product;Intel Core i3-7100 ;3.9Ghz BOX;99,00 €;73,00 €;Hardware / Procesadores;0.5 ;30;4
+P-0031;Stockable Product;MSI GTX 1080 ;Gaming X 8GB GDDR5X;589,00 €;470,00 €;Hardware / Tarjetas Graficas;1.1 ;5;5
+P-0032;Stockable Product;Gigabyte GeForce GTX 1050Ti ;OC WindForce 4GB GDDR5;185,00 €;130,00 €;Hardware / Tarjetas Graficas;0.9 ;5;5
+P-0033;Stockable Product;MSI GeForce GTX 1050 Ti ;AERO ITX OC 4GB GDDR5;164,00 €;115,00 €;Hardware / Tarjetas Graficas;1.3 ;10;5
+P-0034;Stockable Product;G.Skill Ripjaws V Red; DDR4 2400 PC4-19200 32GB 2x16GB CL15;399,00 €;305,00 €;Hardware / Memoria RAM;0.4 ;30;2
+P-0035;Stockable Product;Corsair Vengeance LPX; DDR4 3200 PC4-25600 8GB 2x4GB CL16;117,00 €;88,00 €;Hardware / Memoria RAM;0.6 ;10;4
+P-0036;Stockable Product;G.Skill Aegis ;DDR3 1333 PC3-10666 8GB CL9;69,00 €;48,00 €;Hardware / Memoria RAM;0.5 ;50;2
+P-0037;Stockable Product;Aerocool Xpredator 1000GM 1;000W 80 Plus Gold Modular;114,00 €;90,00 €;Hardware / Fuentes Alimentacion;2.04 ;5;5
+P-0038;Stockable Product;Nox Hummer GD750 ;750W 80 Plus Gold;88,00 €;65,00 €;Hardware / Fuentes Alimentacion;1.73 ;5;2
+P-0039;Stockable Product;Seasonic S12II ;620W 80 Plus Bronze;74,00 €;55,00 €;Hardware / Fuentes Alimentacion;1.90 ;10;3
+;;;;;;;;;

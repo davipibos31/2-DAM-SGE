@@ -1,0 +1,10 @@
+Referencia Interna;Tipo de producto;Nombre;Descripción;Precio de venta;Coste;Categoria;Stock Central;Stock Tienda
+S-0001;Stockable Product;Microsoft Windows 10 ;Home 64Bits OEM;105,00 €;78,00 €;Software / Sistemas Operativos;2;1
+S-0002;Stockable Product;Microsoft Windows 10 ;Pro 64Bits OEM;136,00 €;100,00 €;Software / Sistemas Operativos;5;2
+S-0003;Stockable Product;Microsoft Windows 10 ;Pro 32Bits OEM;155,00 €;115,00 €;Software / Sistemas Operativos;5;2
+S-0004;Stockable Product;HP Windows Server; 2019 R2 Foundation ROK;213,00 €;165,00 €;Software / Sistemas Operativos;3;2
+S-0005;Stockable Product;Panda Antivirus ;Global Protection 2020 Ilimitada;36,00 €;25,00 €;Software / Antivirus;2;2
+S-0006;Stockable Product;McAfee Antivirus ;Plus 2020 10 Dispositivos;27,99 €;19,99 €;Software / Antivirus;5;3
+S-0007;Stockable Product;Kaspersky Anti-Virus ;2020 3 Licencias;27,95 €;19,95 €;Software / Antivirus;10;10
+S-0008;Stockable Product;Microsoft Office 365; Hogar 1 Año;91,99 €;70,99 €;Software / Programas;5;5
+S-0009;Stockable Product;Microsoft Office Hogar y Empresas 2016; 1 Licencia para Mac;250,00 €;199,99 €;Software / Programas;5;5

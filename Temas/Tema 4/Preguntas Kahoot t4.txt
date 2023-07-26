@@ -1,0 +1,20 @@
+La funcion del departamento de compras es:
+	Gestionar el abastecimiento de productos o de los materiales
+Se puede crear un canal privado con varios usuarios en el modulo conversaciones
+	Si
+Es posible distinguir entre clientes potenciales y oportunidades
+	Si, activando la opcion apropiada en Configuracion
+Si se convierte un cliente potencial en una oportunidad, se puede combinar 2 oportunidades
+	No se puede
+El idioma y la localizacion de los datos basicos influyen
+	Todas las opciones son correctas (En el formato de fecha, En la aplicacion de contabilidad, En los modelos de documentos de negocio)
+Para una empresa de servicios profesionales, que aplicacion no es adecuada
+	Punto de venta
+Que aplicacion no es considerada de back-office
+	Comercio electronico
+Que caracteristica no define un servicio (en contraposicion a los productos
+	Modularidad
+Dentro de los informes de almacen el que permite comprobar el stock actual es
+	Informe de inventario
+Como se puede importar contactos a odoo
+	Desde ficheros csv o xlx
